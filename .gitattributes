@@ -1,0 +1,13 @@
+# Enforce UNIX line endings, forever.
+* text=auto eol=lf
+
+# Explicitly classify the RFCs.
+# They are Documentation, not "code" for statistical purposes.
+chronos/*.md linguist-documentation
+chronos/*.md linguist-language=Markdown
+
+# ..and the same for the root metadata.
+README.md linguist-documentation
+README.md linguist-language=Markdown
+LICENSE linguist-documentation
+LICENSE linguist-language=Text
