@@ -10,7 +10,7 @@ There are many paths to the unknown summit of the mountain, but the same Moon re
 
 # Entries
 
-- **RFC-0001**: [Tether](./chronos/0001.md)
+- **RFC-0001**: [Tether](./chronos/0001.md) (Communications)
 
 ---
 > "If This Dark Age Conquers, We Will Leave This Echo."
