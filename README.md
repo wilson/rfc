@@ -15,5 +15,5 @@ There are many paths to the unknown summit of the mountain, but the same Moon re
 
 ---
 > "If This Dark Age Conquers, We Will Leave This Echo."
-> 
+>
 > -- _Wolves in the Throne Room_, 02004
